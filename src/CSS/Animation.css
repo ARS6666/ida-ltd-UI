@@ -25,7 +25,7 @@
 
 .bg-blue {
   background-color: #1d87ff;
-
+  border-radius: 15px;
 }
 
 .text-light {
@@ -45,15 +45,4 @@
     margin-right: 0 !important;
     margin-bottom: 15px;
   }
-
-  .slide-in {
-    transform: translateX(0);
-
-  }
-
-  .slide-intori {
-    transform: translateX(0);
-
-  }
-
 }
